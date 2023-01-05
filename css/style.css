@@ -26,13 +26,13 @@ a{text-decoration: none; color:#000;}
 
 .nav_01{float: left; margin-top: 60px;}
 .nav_01 li{float: left;}
-.nav_01 li a{display: block; font-size: 27px; color: #f5e9e2; padding: 0 95px; font-weight: bold;}
+.nav_01 li a{display: block; font-size: 24px; color: #f5e9e2; padding: 0 95px;}
 .nav_01 li a:hover{text-shadow: -5px 0px 15px rgb(255, 255, 255,0.8);}
 .nav_02 li a:hover{text-shadow: -5px 0px 15px rgba(255, 255, 255, 0.8);}
 
 .nav_02{float: right; margin-top: 60px;}
 .nav_02 li{float: left;}
-.nav_02 li a{display: block; font-size: 27px; color: #f5e9e2; padding: 0 95px; font-weight: bold;}
+.nav_02 li a{display: block; font-size: 24px; color: #f5e9e2; padding: 0 95px;}
 
 .logo{display: block; position: absolute; top: 43px; left: 50%; margin-left: -91px;}
 
